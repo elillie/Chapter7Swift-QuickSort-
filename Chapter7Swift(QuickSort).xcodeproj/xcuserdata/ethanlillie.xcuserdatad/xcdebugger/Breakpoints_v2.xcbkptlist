@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chapter7Swift(QuickSort)/main.swift"
+            timestampString = "433558621.31937"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "quickSortPartition(_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chapter7Swift_QuickSort_.quickSortPartition (Chapter7Swift_QuickSort_.PassableArray, Swift.Int, Swift.Int) -&gt; (i : Swift.Int)"
+                  moduleName = "Chapter7Swift(QuickSort)"
+                  urlString = "file:///Users/ethanlillie/Documents/Code:QS/Algorithms:DataStructures/Chapter7Swift(QuickSort)/Chapter7Swift(QuickSort)/main.swift"
+                  timestampString = "433554165.652986"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1281">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chapter7Swift_QuickSort_.quickSortPartition (Chapter7Swift_QuickSort_.PassableArray, Swift.Int, Swift.Int) -&gt; (i : Swift.Int)"
+                  moduleName = "Chapter7Swift(QuickSort)"
+                  urlString = "file:///Users/ethanlillie/Documents/Code:QS/Algorithms:DataStructures/Chapter7Swift(QuickSort)/Chapter7Swift(QuickSort)/main.swift"
+                  timestampString = "433554165.653206"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1285">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
